@@ -1,4 +1,6 @@
 .env
 .DS_Store
 venv/
-__pycache/__
+__pycache__/
+
+tools/**/__pycache__/
